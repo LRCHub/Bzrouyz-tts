@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "反逆者の僕ら",
+  "base_artist": "EMA",
+  "createdAt": "2026-01-04T17:29:12.903876Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "反逆者の僕ら",
+      "artist": "EMA",
+      "has_synced": true,
+      "path": "select/01_反逆者の僕ら_EMA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "反逆者の僕ら",
+      "artist": "EMA",
+      "has_synced": false,
+      "path": "select/pl_01_反逆者の僕ら_EMA.txt"
+    }
+  ]
+}
